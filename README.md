@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm [Your Name]! 👋
 
-<!--
-**yhkq1/yhkq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about software development, open-source contributions, and constantly learning new technologies!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yhkq1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhkq1&layout=compact&theme=radical)
+
+---
+
+### ⚡ Recent GitHub Activity
+
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on: nothing *[Your Project](https://github.com/yourusername/yourproject)
+- 🌱 I’m currently learning: Cybersecurity
+- 💬 Ask me about: [Relevant topics you like discussing]
+- 📫 How to reach me: @yhkq1 on Discord
