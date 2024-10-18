@@ -1,6 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
-
-I am passionate about software development, open-source contributions, and constantly learning new technologies!
+### Hi there, I'm Janis! 👋
 
 ---
 
@@ -20,6 +18,5 @@ I am passionate about software development, open-source contributions, and const
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: nothing <!--[Your Project](https://github.com/yourusername/yourproject)-->
-- 🌱 I’m currently learning: Cybersecurity
-- 💬 Ask me about: [Relevant topics you like discussing]
+- 🌱 I’m currently learning: Cybersecurity, JavaScript, Python
 - 📫 How to reach me: @yhkq1 on Discord
