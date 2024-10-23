@@ -1,4 +1,4 @@
-# Owner of [https://github.com/221x](221x Github)
+# Owner of (https://github.com/221x)[221x Github]
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhkq1&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhkq1&layout=compact&theme=radical&langs_count=10)
