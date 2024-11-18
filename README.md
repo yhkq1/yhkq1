@@ -1,5 +1,4 @@
-## I made https://221x.github.io
-
+# Currently learning JavaScript
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhkq1&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhkq1&layout=compact&theme=radical&langs_count=10)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yhkq1&theme=radical&hide_border=true)](https://git.io/streak-stats)
