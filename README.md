@@ -24,7 +24,7 @@
 <h3 align="center">Development Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,webstorm,python,html,css,js,git,github,c&perline=13">
+<img src="https://skillicons.dev/icons?i=linux,webstorm,python,html,css,js,react, redux, jquery, bootstrap, sass, git,github,c&perline=13">
 </p>
 
 <!--
