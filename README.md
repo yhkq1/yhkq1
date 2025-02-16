@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="assets/hello.gif" width="5%"></h1>
+<h1 align="center"> Hi there</h1>
 
 <p align="center">
   <a href="https://github.com/yhkq1?tab=repositories&sort=stargazers">
@@ -24,7 +24,7 @@
 <h3 align="center">Development Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,webstorm,python,html,css,js,react, redux, jquery, bootstrap, sass, git,github,c&perline=13">
+<img src="https://skillicons.dev/icons?i=linux,webstorm,python,html,css,js,react,jquery,bootstrap,redux,sass,tailwind,git,github,cs,cpp&perline="8">
 </p>
 
 <!--
