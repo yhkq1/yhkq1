@@ -44,6 +44,5 @@ Thanks for visiting my profile!
 </p>
 <br>
 <p align="center">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="40" alt="Discord Logo">
-  <a href="https://discord.com/users/789782857852911616"></a>
+  <a href="https://discord.com/users/789782857852911616"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="40" alt="Discord Logo"></a>
 </p>
