@@ -38,9 +38,11 @@
 <a href=""><img src=""></a>
 </p>
 -->
+<br>
 <p align="center">
 Thanks for visiting my profile!
 </p>
+<br>
 <p align="center">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="40" alt="Discord Logo">
 </p>
