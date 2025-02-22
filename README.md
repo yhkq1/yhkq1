@@ -39,8 +39,8 @@
 </p>
 -->
 <p align="center">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="40" alt="Discord Logo">
+Thanks for visiting my profile!
 </p>
 <p align="center">
-Thanks for visiting my profile!
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="40" alt="Discord Logo">
 </p>
