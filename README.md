@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yhkq1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yhkq1?style=for-the-badge&logo=star&date=23022025"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yhkq1?style=for-the-badge&logo=star"/></a>
   <a href="https://github.com/yhkq1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yhkq1?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=23022025"/></a>
   <a href="https://github.com/yhkq1/">
@@ -19,12 +19,12 @@
 
 </p>
 
-<h2 align="center"> 🛠️ My tech stack </h2>
+<h2 align="center"> 🛠️ Tech </h2>
 
 <h3 align="center">Development Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,webstorm,python,html,css,js,react,jquery,bootstrap,redux,angular,vue,sass,tailwind,git,github,cs,arduino&perline="8">
+<img src="https://skillicons.dev/icons?i=linux,webstorm,visualstudio,python,html,css,js,react,jquery,bootstrap,redux,angular,vue,sass,tailwind,git,github,nodejs,npm,mongodb,cs,arduino,m5stack&perline="8">
 </p>
 
 <!--
