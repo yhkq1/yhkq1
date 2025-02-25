@@ -4,7 +4,7 @@
   <a href="https://github.com/yhkq1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yhkq1?style=for-the-badge&logo=star"/></a>
   <a href="https://github.com/yhkq1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yhkq1?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=23022025"/></a><!--&date=23022025-->
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yhkq1?style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><!--&date=23022025-->
   <a href="https://github.com/yhkq1/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=yhkq1&style=for-the-badge"/></a>
 </p>
