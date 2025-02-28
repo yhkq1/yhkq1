@@ -21,10 +21,14 @@
 
 <h2 align="center"> 🛠️ Tech </h2>
 
-<h3 align="center">Development Tools</h2>
+<h3 align="center">Web Development</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,webstorm,visualstudio,python,html,css,js,react,jquery,bootstrap,redux,angular,vue,sass,tailwind,git,github,nodejs,npm,mongodb,cs,arduino,m5stack&perline="8">
+<img src="https://skillicons.dev/icons?i=linux,webstorm,visualstudio,python,html,css,js,react,jquery,bootstrap,redux,angular,vue,sass,tailwind,git,github,nodejs,npm,mongodb&perline="8">
+</p>
+<h3 align="center">Embedded Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,arduino,windows&perline="8">
 </p>
 
 <!--
