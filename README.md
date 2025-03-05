@@ -19,7 +19,7 @@
 
 </p>
 
-<h2 align="center"> 🛠️ Tech </h2>
+<h2 align="center"> Knowledge </h2>
 
 <h3 align="center">Web Development</h2>
 
