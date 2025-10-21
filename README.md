@@ -9,7 +9,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/789782857852911616)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/789782857852911616)](https://dev.discordprofiles.me/openspotify/789782857852911616)
 
-<p align="center"><a href="https://discord.com/users/789782857852911616">
+<p align="center"><a href="https://discord.com/users/789782857852911616" target="_blank">
 <img src="https://lanyard.cnrad.dev/api/789782857852911616"></a>
 </p>
 
