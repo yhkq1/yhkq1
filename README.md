@@ -9,12 +9,11 @@
 <img src="https://lanyard.cnrad.dev/api/789782857852911616"></a>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=js,html,css,react,sass,jquery,nodejs,postgresql,bash,powershell,vscode,webstorm,github,git,linux,qt,discord,docker&perline=5" alt="skills">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,sass,jquery,nodejs,postgresql,bash,powershell,vscode,webstorm,github,git,linux,qt,docker,cpp&perline=5" alt="skills">
 </td>
 </tr>
 </table>
 
-<p align="left">
+<!--<p align="left">
 <strong>Learning:</strong><br>
-<img src="https://skillicons.dev/icons?i=cpp" alt="skills">
-</p>
+</p>-->
