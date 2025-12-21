@@ -3,11 +3,11 @@
   <!--profile views-->
   <img alt="views" src="https://komarev.com/ghpvc/?username=yhkq1&style=flat-square">
   <!--github-->
-  <a href="https://github.com/yhkq1">
+  <a href="https://github.com/yhkq1" target="_blank">
     <img alt="github followers" src="https://img.shields.io/github/followers/yhkq1?logo=GitHub&style=flat">
   </a>
   <!--site status-->
-  <a href="https://yhkq1.vercel.app/">
+  <a href="https://yhkq1.vercel.app/" target="_blank">
     <img alt="website status" src="https://img.shields.io/website?url=https%3A%2F%2Fyhkq1.vercel.app">
   </a>
 </p>
