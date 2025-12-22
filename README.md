@@ -1,4 +1,4 @@
-<!-- Small upper widgets-- >
+<!-- Small upper widgets-->
 <p align="left">
   <!--profile views-->
   <img alt="views" src="https://komarev.com/ghpvc/?username=yhkq1&style=flat-square">
