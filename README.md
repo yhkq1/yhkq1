@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <!--Discord-->
+  <!--Discord-- >
   <a href="https://discord.com/users/789782857852911616" target="_blank">
     <img alt="discord profile" src="https://lanyard.cnrad.dev/api/789782857852911616">
   </a>
