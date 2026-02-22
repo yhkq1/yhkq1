@@ -19,7 +19,7 @@
     <img alt="discord profile" src="https://lanyard.cnrad.dev/api/789782857852911616">
   </a>
   <!--skillicons-->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,jquery,nodejs,postgresql,bash,git,linux,docker,cpp&perline=6"     alt="skillset">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,jquery,nodejs,postgresql,bash,git,linux,docker,cpp&perline=4"     alt="skillset">
 </p>
 
 <!--snake animation-->
