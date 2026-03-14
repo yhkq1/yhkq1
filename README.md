@@ -13,16 +13,16 @@
   </a>
 </p>
 
-<!--
-<p align="left">
+
+<!--<p align="left">-->
   <!--Discord-->
-  <a href="https://discord.com/users/789782857852911616" target="_blank">
+  <!--<a href="https://discord.com/users/789782857852911616" target="_blank">
     <img alt="discord profile" src="https://lanyard.cnrad.dev/api/789782857852911616">
-  </a>
+  </a>-->
   <!--skillicons-->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,jquery,nodejs,postgresql,bash,git,linux,docker,c,cpp&perline=4"     alt="skillset">
-</p>
--->
+  <!--<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,jquery,nodejs,postgresql,bash,git,linux,docker,c,cpp&perline=4"     alt="skillset">
+</p>-->
+
 
 <!--snake animation-->
 <picture>
