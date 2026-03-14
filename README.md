@@ -32,8 +32,10 @@
 </picture>
 
 <!-- Jabber -->
-<p align="left">
+<p align="center">
 Contact:
+</p>
+<p align="center">
 <a href="xmpp:yhkq1@draugr.de">
 <picture>
   <source media="(prefers-color-scheme: dark)" width="30" srcset="https://cdn.simpleicons.org/xmpp/ffffff">
