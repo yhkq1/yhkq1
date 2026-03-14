@@ -32,7 +32,7 @@
 </picture>
 
 <!-- Jabber -->
-<p align="center">
+<h3 align="center">
 Contact:
 </p>
 <p align="center">
