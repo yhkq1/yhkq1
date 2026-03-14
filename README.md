@@ -13,6 +13,7 @@
   </a>
 </p>
 
+<!--
 <p align="left">
   <!--Discord-->
   <a href="https://discord.com/users/789782857852911616" target="_blank">
@@ -21,6 +22,7 @@
   <!--skillicons-->
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,jquery,nodejs,postgresql,bash,git,linux,docker,c,cpp&perline=4"     alt="skillset">
 </p>
+-->
 
 <!--snake animation-->
 <picture>
