@@ -8,7 +8,7 @@
     <img alt="github followers" src="https://img.shields.io/github/followers/yhkq1?logo=GitHub&style=flat">
   </a>
   <!--site status-->
-  <!--<a href="https://yhkq1.vercel.app/" target="_blank">-->
+  <a href="https://yhkq1.vercel.app/" target="_blank">
     <img alt="website status" src="https://img.shields.io/website?url=https%3A%2F%2Fyhkq1.vercel.app">
   </a>
 </p>
@@ -31,11 +31,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yhkq1/yhkq1/refs/heads/main/assets/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Jabber
+<!-- Jabber -->
 <p align="center">
-<a href="xmpp:yhkq1@jabb3r.org">
+<a href="xmpp:yhkq1@draugr.de">
 <picture>
   <source media="(prefers-color-scheme: dark)" width="30" srcset="https://cdn.simpleicons.org/xmpp/ffffff">
   <source media="(prefers-color-scheme: light)" width="30" srcset="https://cdn.simpleicons.org/xmpp/000000">
   <img alt="Jabber/XMPP" width="30" src="https://cdn.simpleicons.org/xmpp/gray">
-</picture></a></p>-->
+</picture></a></p>
