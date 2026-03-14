@@ -34,7 +34,7 @@
 <!-- Jabber -->
 <h3 align="center">
 Contact:
-</p>
+</h3>
 <p align="center">
 <a href="xmpp:yhkq1@draugr.de">
 <picture>
