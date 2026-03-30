@@ -14,7 +14,7 @@
 </p>
 
 
-<!--<p align="left">-
+<!--<p align="left">-->
   <!--Discord-->
   <!--<a href="https://discord.com/users/789782857852911616" target="_blank">
     <img alt="discord profile" src="https://lanyard.cnrad.dev/api/789782857852911616">
@@ -31,8 +31,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yhkq1/yhkq1/refs/heads/main/assets/github-contribution-grid-snake.svg">
 </picture>
 
+
 <!-- Jabber -->
-<h3 align="center">
+<!--<h3 align="center">
 Contact:
 </h3>
 <p align="center">
@@ -41,4 +42,4 @@ Contact:
   <source media="(prefers-color-scheme: dark)" width="30" srcset="https://cdn.simpleicons.org/xmpp/ffffff">
   <source media="(prefers-color-scheme: light)" width="30" srcset="https://cdn.simpleicons.org/xmpp/000000">
   <img alt="Jabber/XMPP" width="30" src="https://cdn.simpleicons.org/xmpp/gray">
-</picture></a></p>
+</picture></a></p>-->
