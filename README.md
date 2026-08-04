@@ -1,3 +1,8 @@
+Hello archive.org team, 
+please exclude my profile from the Wayback Machine, I submitted an exclusion request at 04/08/2026 (dd/mm/yyyy).
+
+---
+
 <!-- Small upper widgets--> 
 <p align="left">
   <!--profile views-->
